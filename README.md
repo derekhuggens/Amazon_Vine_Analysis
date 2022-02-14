@@ -41,7 +41,7 @@ From `df1`, `df2` was made with an additional filter wherein all rows where help
 
 From `df2`, two different DFs were made, one contained Vine eligible reviews, and the other contained non-Vine reviews.<br>
 
-### ![filters_df](https://github.com/derekhuggens/Amazon_Vine_Analysis/blob/8097059b39f139605edc98d5c764f3ca9e58d16c/README_IMAGES/df_filters.png)<br><br>
+![filters_df](https://github.com/derekhuggens/Amazon_Vine_Analysis/blob/8097059b39f139605edc98d5c764f3ca9e58d16c/README_IMAGES/df_filters.png)<br><br>
 
 ## Results: Please see the below image for Amazon review calculations.
 
