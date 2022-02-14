@@ -1,7 +1,7 @@
 # Amazon_Vine_Analysis
 ETL w/ PySpark/Pandas/SQL
 
-## Overview of the analysis: Explain the purpose of this analysis.
+## Overview of the analysis:
 
 The Amazon reviews landing page was accessed at https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt and a random dataset was chosen for an Amazon Vine/Non-Vine Review Bias analysis.
 
