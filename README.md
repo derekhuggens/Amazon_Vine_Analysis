@@ -58,6 +58,6 @@ From `df2`, two different DFs were made, one contained Vine eligible reviews, an
 
 ### What percentage of non-Vine reviews were 5 stars? 38.70% <br><br>
 
-## Summary: Provide one additional analysis that you could do with the dataset to support your statement.
+## Summary:
 
 By using PySpark to specifically select data and filter it, we were able to see bias correlations from calculated ratios. There was a positivity bias for Amazon Vine reviewers in regards to their video game reviews, possibly because of funding or observer bias. From the Results section above, one can see that the Vine Five-Star Percentage ratio was 51.06% of all Vine reviews whereas the Non-Vine Five-Star Percentage ratio was 38.70% amongst all Non-Vine reviews. Using a z-test, we could compare the Vine review ratings mean with the mean rating of the Non-Vine reviews to see if there is a statistical difference. A t-test would be better with a smaller sample size, however the Vine review count was 94 and the Non-Vine review count was 40,471. With the Vine bias ratio seen above as 51.06%, a z-test would help see how many standard deviations a sample (Vine reviews) mean is above (positive) or below (negative) from the mean population (Non-Vine reviews).
